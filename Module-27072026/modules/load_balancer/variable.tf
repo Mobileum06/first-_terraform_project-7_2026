@@ -1,0 +1,2 @@
+variable "lb" {}
+variable "nic" {}

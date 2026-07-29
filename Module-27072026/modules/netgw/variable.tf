@@ -1,0 +1,2 @@
+variable "ngw" {}
+variable subnets {}
