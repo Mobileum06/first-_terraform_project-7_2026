@@ -17,6 +17,10 @@
       name     = "example-rg4"
       location = "centralus"
     }
+    rg5 = {
+      name     = "example-rg5"
+      location = "centralus"
+    }
   }
   virtual_networks = {
     vnet1 = {
