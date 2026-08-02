@@ -2,7 +2,7 @@
   resource_groups = {
     rg1 = {
       name     = "example-rg1"
-      location = "centralpark"
+      location = "centraldelhi"
     }
     rg2 = {
       name     = "example-rg2"
