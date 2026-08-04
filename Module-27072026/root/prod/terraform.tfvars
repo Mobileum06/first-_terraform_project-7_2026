@@ -3,7 +3,7 @@
     rg1 = {
       name     = "example-rg1"
 
-      location = "centralremote1"
+      location = "centrallocal1"
 
     }
     rg2 = {
