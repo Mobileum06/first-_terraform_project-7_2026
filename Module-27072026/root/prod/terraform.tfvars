@@ -3,7 +3,11 @@
     rg1 = {
       name     = "example-rg1"
 
+<<<<<<< HEAD
       location = "centrallocal1"
+=======
+      location = "centralremote2"
+>>>>>>> b610f307c96271fd79375eeb5c61d94d53afd7f7
 
     }
     rg2 = {
