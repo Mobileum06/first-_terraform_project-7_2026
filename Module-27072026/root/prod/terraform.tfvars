@@ -2,8 +2,9 @@
   resource_groups = {
     rg1 = {
       name     = "example-rg1"
+      location = "central-2"
 
-      location = "central_1"
+
 
     }
     rg2 = {
